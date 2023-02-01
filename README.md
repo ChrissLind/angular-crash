@@ -1,5 +1,7 @@
 # AngularCrash
 
+I created this project following along with 'this video' with interest of working with angular. I create a simple task tracker webapp... continue...
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
